@@ -232,7 +232,7 @@ ggsurvplot(fit,
            risk.table = T)
 fit2 <- survdiff(Surv(overall_survival, deceased) ~ strata, data = brca_tp53)
 ```
-![results](results.png)
+![results](result.png)
 
 Here's what we can interpret out of the plot:
 Red (HIGH TP53 expression): Patients with higher TP53 expression. Their curve drops faster, meaning a higher proportion died sooner.
