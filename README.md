@@ -279,5 +279,3 @@ Score (logrank) test = 5.46  on 1 df,   p=0.02
 ```
 
 According to the results, patients in the LOW TP53 group have about 19% of the risk of dying compared to the HIGH group. Put differently, their hazard of death is \~80% lower.
-
-```
