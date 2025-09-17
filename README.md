@@ -1,6 +1,4 @@
 ## Survival Analysis with TCGA in order to see if high levels of TP53 can help in prediction of breast cancer.
-````markdown
-
 The intuition behind Survival Analysis is how long individuals are likely to survive before a specific event occurs. The following questions are often the main focus of survival analysis experiments:  
 1- What is the probablity that a certain patient will live until a specific timepoint?  
 2- What factors influence the lifespan of patients?  
